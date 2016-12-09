@@ -8,7 +8,6 @@ This tutorial is intended to be connected to the intorductory part that you coul
 
 
 ## Docker
-=============================
 If you want to dive headfirst on the practical, or you were not able to set up a proper environment, there is also a docker already configured.
 
 1. Install docker (for both Linux, Mac and Windows): https://docs.docker.com/engine/installation/
