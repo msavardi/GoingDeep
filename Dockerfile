@@ -47,7 +47,7 @@ RUN apt-get install -y --no-install-recommends \
 	protobuf-compiler 
 
 # Opencv 2.4 setup
-RUN	pip install -U scikit-learn==0.14.1 && pip install scikit-image
+RUN	pip install -U scikit-learn==0.14.1 && pip install scikit-image && pip install lmdb
 RUN	apt-get install -y -q libavformat-dev \
 	libavcodec-dev \
 	libswscale-dev \
