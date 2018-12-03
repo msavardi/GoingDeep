@@ -1,6 +1,6 @@
 # GoingDeep
 
-This is a practical codelab that follow the Data_Scientist_for_a_day <https://github.com/alessandroferrari/Data_Scientist_for_a_Day> with the aim to guide beginners from the discipline of machine learning and classification into the deep learning side, by means of open source tools. 
+This is a practical codelab that follows the Data_Scientist_for_a_day <https://github.com/alessandroferrari/Data_Scientist_for_a_Day> with the aim to guide beginners from the discipline of machine learning and classification into the deep learning side, by means of open source tools. 
 
 The tutorial (`GoingDeep.ipynb`) lab explains you the tools that you need to understand in order to develop a classification solution of this kind. By completion of the source code, you will have a working solution for classifying on a kaggle competition dataset. The kaggle dataset competition is the London Data Science competition.
 
